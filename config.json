@@ -1,0 +1,6 @@
+{
+    "webhook_url" : "https://discord.com/api/webhooks/1575197283635429527/yflO5FQngXSI_LhMtR40-KqteuAimfjVy7E3v53Id-CDCczNHExiD3jtuduWYMn2JuHD",
+    "umbral": 3300,
+    "intervalo": 60,
+    "intervalo_informe": 3600
+}
